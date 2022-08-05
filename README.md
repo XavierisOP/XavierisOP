@@ -9,7 +9,7 @@
 
 - 🔭 My primary interests include **JAVA, Algorithms and Data-Structures**
 
-- 🌱 I’m currently learning **python, Java, DSA**
+- ![Alt text](icons8-book.gif) I’m currently learning **python, Java, DSA**
 
 - 👯 I’m looking to collaborate on **isort and any projects requiring application of niche algorithms**
 
