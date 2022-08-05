@@ -1,19 +1,24 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://XavierisOP.io)
-<h1 align="center">Hi 👋, I'm Xavier Scott</h1>
-<h3 align="center">I am a Computer Science passionate from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.imgur.com/QAzhe89.gif](https://github.com/XavierisOP/XavierisOP/blob/main/gif/your_cool_intro.gif)">
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
+<div align="center" width="50">
+
+<img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/your_cool_intro%20(1).gif" alt="Welcome!" width="300"/>
+
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierisop&label=Profile%20views&color=0e75b6&style=flat" alt="xavierisop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- <img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/icons8-interests-64.png" width="20" height="20" /> My primary interests include **JAVA, Algorithms and Data-Structures**
+- 🔭 My primary interests include **`.java`, Data-Structures & Algorithms**
 
-- <img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/icons8-book.gif" width="15" height="15" /> I’m currently learning **python, Java, DSA**
+- 🌱 I’m currently learning **`.py`, `.go`, `.kt`**
 
-- <img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/icons8-teamwork.gif" width="25" height="25" /> I’m looking to collaborate on **isort and any projects requiring application of niche algorithms**
+- 👯 I’m looking to collaborate on **isort and any projects requiring application of niche algorithms**
 
-- <img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/icons8-help-64.png" width="25" height="25" /> I’m looking for help with **advanced concepts in asynchronous and parallel programming**
+- 🤝 I’m looking for help with **advanced concepts in asynchronous and parallel programming**
 
 - 💬 Ask me about **problems and lets discuss potential solutions**
 
@@ -36,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierisop&show_icons=true&locale=en" alt="xavierisop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xavierisop&" alt="xavierisop" /></p>
+
