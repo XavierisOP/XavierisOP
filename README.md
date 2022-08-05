@@ -1,20 +1,20 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://XavierisOP.io)
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<div align="center" width="50">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&lines=Computer+Science+Student;Software+Developer+%26+Reseacher;My+interest+in;Freelance%2C+Entrepreneurship%2C+Coding;DS+%7C+AI+%7C+ML+%7C+Enthusiastic;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<!-- <img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/your_cool_intro%20(1).gif" alt="Welcome!" width="300"/> -->
+</p>
 
-<img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/your_cool_intro%20(1).gif" alt="Welcome!" width="300"/>
-
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierisop&label=Profile%20views&color=0e75b6&style=flat" alt="xavierisop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 My primary interests include **`.java`, Data-Structures & Algorithms**
 
-- 🌱 I’m currently learning **`.py`, `.go`, `.kt`**
+- 🌱 I’m currently learning **```.py```, `.go`, `.kt`**
 
 - 👯 I’m looking to collaborate on **isort and any projects requiring application of niche algorithms**
 
