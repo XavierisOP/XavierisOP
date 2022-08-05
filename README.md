@@ -4,9 +4,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arimo&duration=3000&color=F7F7F7&vCenter=true&width=600&lines=A+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+and+a+Programing+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Enthusiastic+From+INDIA+%F0%9F%87%AE%F0%9F%87%B3;I+Love+%F0%9F%A7%A1+to+Learn+New+Technologies+%F0%9F%92%A1;Thanks+For+Visiting+my+GITHUB+Profile.+%F0%9F%92%95" alt="Typing SVG" /></a>
-<img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/dino.gif" alt="Welcome!" width="300"/>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arimo&duration=3000&color=F7F7F7&center=true&vCenter=true&width=600&lines=I'M+XAVIER...;A+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+and+a+Programing+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Enthusiastic+From+INDIA+%F0%9F%87%AE%F0%9F%87%B3;I+Love+%F0%9F%A7%A1+to+Learn+New+Technologies+%F0%9F%92%A1;Thanks+For+Visiting+my+GITHUB+Profile.+%F0%9F%92%95" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierisop&label=Profile%20views&color=0e75b6&style=flat" alt="xavierisop" /> </p>
