@@ -5,7 +5,10 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&lines=Computer+Science+Student;Software+Developer+%26+Reseacher;My+interest+in;Freelance%2C+Entrepreneurship%2C+Coding;DS+%7C+AI+%7C+ML+%7C+Enthusiastic;Always+Learning+New+Things" alt="Typing SVG" /></a>
-<!-- <img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/your_cool_intro%20(1).gif" alt="Welcome!" width="300"/> -->
+
+
+<img src="https://github.com/XavierisOP/XavierisOP/blob/main/gif/dino.gif" alt="Welcome!" width="300"/>
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierisop&label=Profile%20views&color=0e75b6&style=flat" alt="xavierisop" /> </p>
